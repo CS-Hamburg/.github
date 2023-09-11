@@ -1,6 +1,6 @@
 # CS Hamburg
 
-![CS Hamburg Logo](logo.png)
+![CS Hamburg Logo](https://avatars.githubusercontent.com/u/143496822?s=200&v=4)
 
 Welcome to the official GitHub repository of CS Hamburg! This README file provides an overview of our company, its mission, and the projects we are currently working on.
 
