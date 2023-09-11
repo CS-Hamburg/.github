@@ -21,7 +21,7 @@ Our mission is to:
 
 ## Getting Started
 
-If you're interested in collaborating with us or exploring our projects, you can [contact us](mailto:request@cs.hamburg) us if you have any questions, partnership inquiries, or want to learn more about CS Hamburg.
+If you're interested in collaborating with us or exploring our projects, you can [contact us](mailto:request@cs.hamburg) if you have any questions, partnership inquiries, or want to learn more about CS Hamburg.
 
 ## Join Our Team
 
